@@ -43,7 +43,15 @@ cd Portfolio-Website
 **Run Locally**: Simply open the index.html file in your preferred web browser.
 
 ---
+## 🌱 Future Improvements
 
+- Add a dark/light mode toggle for better user experience.    
+- Improve SEO and website performance for faster load time.  
+- Integrate EmailJS or Node.js backend for reliable form submission.  
+- Add theme customization (color palette selector).
+
+  ---
+  
 ## 👋 Get in Touch
 
 I'm always open to discussing new opportunities and projects.
